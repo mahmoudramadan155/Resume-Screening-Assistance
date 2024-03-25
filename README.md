@@ -11,3 +11,7 @@ The tool empowers HR teams to make informed decisions quickly and effectively, e
 
 Check out the project video link: 'https://rb.gy/kzcn2r'
 Check out the project code and try it out here: 'https://lnkd.in/dT8ZVU2V'
+
+https://github.com/mahmoudramadan155/Resume-Screening-Assistance/assets/47304219/96c44c9d-807a-43a4-b268-d4309a202879
+
+
