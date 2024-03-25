@@ -1,0 +1,13 @@
+langchain
+langchain-community
+streamlit
+openai
+tiktoken
+python-dotenv
+unstructured
+pinecone-client
+pypdf
+sentence_transformers
+qdrant-client
+chromadb
+faiss-cpu
